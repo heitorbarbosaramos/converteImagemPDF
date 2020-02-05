@@ -1,0 +1,25 @@
+#surefire
+#Wed Feb 05 17:38:02 BRT 2020
+testClassesDirectory=C\:\\projetos\\ws-eclipse\\converteImagemPDF\\converteImagemPDF\\target\\test-classes
+classPathUrl.3=C\:\\Users\\heitor.ramos\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar
+classPathUrl.2=C\:\\Users\\heitor.ramos\\.m2\\repository\\com\\itextpdf\\itextpdf\\5.5.13.1\\itextpdf-5.5.13.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\projetos\\ws-eclipse\\converteImagemPDF\\converteImagemPDF\\target\\classes
+reportsDirectory=C\:\\projetos\\ws-eclipse\\converteImagemPDF\\converteImagemPDF\\target\\surefire-reports
+classPathUrl.0=C\:\\projetos\\ws-eclipse\\converteImagemPDF\\converteImagemPDF\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\projetos\\ws-eclipse\\converteImagemPDF\\converteImagemPDF\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\heitor.ramos\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\heitor.ramos\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.12.4\\surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.heitor.ramos.gerarPdf.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\projetos\\ws-eclipse\\converteImagemPDF\\converteImagemPDF\\.surefire-857F9909A0FFFBAF02FBF1BE7AD62FFFEAA97967
+includes0=**/Test*.java
+childDelegation=false
